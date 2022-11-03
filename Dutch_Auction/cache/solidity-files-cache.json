@@ -1,0 +1,81 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/akshaysawant/Downloads/Dutch_Auction/contracts/BasicDutchAuction.sol": {
+      "lastModificationDate": 1667436561427,
+      "contentHash": "7c0675c1fd20adea80a455a8b5ba7e81",
+      "sourceName": "contracts/BasicDutchAuction.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "DutchAuction"
+      ]
+    },
+    "/Users/akshaysawant/Downloads/v1.0/Dutch_Auction/contracts/BasicDutchAuction.sol": {
+      "lastModificationDate": 1667437737878,
+      "contentHash": "7c0675c1fd20adea80a455a8b5ba7e81",
+      "sourceName": "contracts/BasicDutchAuction.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "DutchAuction"
+      ]
+    }
+  }
+}
